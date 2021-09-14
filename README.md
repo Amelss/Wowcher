@@ -6,11 +6,9 @@ Developing Wowcher's landing page redesign from a Figma Design
 - Using JavaScript to create a responsive hamburger menu.
 - Develop the Figma design from scratch and add some extra features
 
-
 ### Links
 
 - Live Site URL: https://agitated-swanson-0e2f64.netlify.app/
-
 
 ### Built with
 
